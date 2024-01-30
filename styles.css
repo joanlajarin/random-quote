@@ -31,6 +31,7 @@ main {
 }
 .author {
     font-size: 16px;
+    text-align: center;
 }
 .tags {
     display: flex;
